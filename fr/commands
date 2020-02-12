@@ -1,1 +1,1 @@
-*METEO*==say "Il fait beau"
+*METEO*==say "Il fait toujours beau à $jv_pg_ww_city"
