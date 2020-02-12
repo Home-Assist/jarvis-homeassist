@@ -10,13 +10,13 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Description of your Plugin
+Un plugin Jarvis pour le projet HomeAssist
 
 ## Usage
 ```
-You: example of how to trigger the command
-Jarvis: output from Jarvis
+You: *MUSIQUE*
+Jarvis: Je vais jouer de la musique
 ```
 
 ## Author
-[your name](http://your.website)
+[SkitDev](https://skitdev.icu)
