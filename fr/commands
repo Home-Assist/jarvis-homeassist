@@ -1,1 +1,2 @@
 *METEO*==say "Il fait toujours beau à $jv_pg_ww_city"
+*HOMEASSIST*==say "Home Assist est un assistant vocal crée par des STI2D"
