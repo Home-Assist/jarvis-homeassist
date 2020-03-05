@@ -19,3 +19,20 @@
 jv_pg_ha_check_weather () {
     echo "Il fait toujours beau à ${jv_pg_ha_city}"
 }
+
+jv_pg_ha_turn_off_light () {
+    echo "J'éteint la lumière"
+}
+
+jv_pg_ha_turn_on_light () {
+    echo "J'allume la lumière"
+}
+
+
+jv_pg_ha_turn_off_heater () {
+    echo "J'éteint le chauffage"
+}
+
+jv_pg_ha_turn_on_heater () {
+    echo "J'allume le chauffage"
+}
