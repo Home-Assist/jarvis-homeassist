@@ -1,3 +1,6 @@
 *METEO*==say "$(jv_pg_ha_check_weather)"
 *PROJET*==say "Home Assist est un assistant vocal crée par des STI2D"
-**==say ""
+*ALLUMER*LUMIERE*==say "$(jv_pg_ha_turn_on_light)"
+*ETEINDRE*LUMIERE*==say "$(jv_pg_ha_turn_off_light)"
+*ALLUMER*CHAUFFAGE*==say "$(jv_pg_ha_turn_on_heater)"
+*ETEINDRE*CHAUFFAGE*==say "$(jv_pg_ha_turn_off_heater)"
