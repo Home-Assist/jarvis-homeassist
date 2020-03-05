@@ -1,1 +1,1 @@
-jv_pg_ww_city="Rennes"
+jv_pg_ha_city="Rennes"

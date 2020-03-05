@@ -15,3 +15,7 @@
 #        the_answer_is) echo "La réponse est $2";;
 #    esac
 #} 
+
+jv_pg_ha_check_weather () {
+    echo "Il fait toujours beau à ${jv_pg_ha_city}"
+}

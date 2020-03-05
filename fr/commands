@@ -1,2 +1,3 @@
-*METEO*==say "Il fait toujours beau à $jv_pg_ww_city"
+*METEO*==say "$(jv_pg_ha_check_weather)"
 *PROJET*==say "Home Assist est un assistant vocal crée par des STI2D"
+**==say ""
